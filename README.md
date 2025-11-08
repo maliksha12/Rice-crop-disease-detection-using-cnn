@@ -1,0 +1,1 @@
+# Rice-crop-disease-detection-using-cnn
